@@ -27,3 +27,5 @@ Returns: Number of valid segments.
 ### How to Run
 Compile the C# code.
 Run the program with your inputs.
+clone the repo:
+`git clone https://github.com/IgorSantanaM/SubarrayDivsion.git`
